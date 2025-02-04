@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738599506285
+current_stage: Production
+description: ''
+last_updated_timestamp: 1738599519401
+name: BestModel_RandomForest
+run_id: fd375fb1525742f0a8265cb0cddedbf4
+run_link: ''
+source: file:///C:/Users/safab/Desktop/Mlops_Projects/mlruns/0/fd375fb1525742f0a8265cb0cddedbf4/artifacts/RF_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/safab/Desktop/Mlops_Projects/mlruns/0/fd375fb1525742f0a8265cb0cddedbf4/artifacts/RF_model
+user_id: null
+version: 2

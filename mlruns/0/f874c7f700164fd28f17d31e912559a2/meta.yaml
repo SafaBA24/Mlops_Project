@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/safab/Desktop/Mlops_Projects/mlruns/0/f874c7f700164fd28f17d31e912559a2/artifacts
+end_time: 1738587288634
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f874c7f700164fd28f17d31e912559a2
+run_name: redolent-ox-939
+run_uuid: f874c7f700164fd28f17d31e912559a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738587280044
+status: 3
+tags: []
+user_id: safab

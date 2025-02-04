@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/safab/Desktop/Mlops_Projects/mlruns/0/7f677f73c8e7424ead97a06d09118edf/artifacts
+deleted_time: 1736965419770
+end_time: 1736964494863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7f677f73c8e7424ead97a06d09118edf
+run_name: entertaining-sow-158
+run_uuid: 7f677f73c8e7424ead97a06d09118edf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736964490796
+status: 3
+tags: []
+user_id: safab

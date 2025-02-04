@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/safab/Desktop/Mlops_Projects/mlruns/0/6a52e80532d044d19068194f1c5f0f91/artifacts
+deleted_time: 1738599065347
+end_time: 1738599041177
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6a52e80532d044d19068194f1c5f0f91
+run_name: kindly-quail-269
+run_uuid: 6a52e80532d044d19068194f1c5f0f91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738599023914
+status: 3
+tags: []
+user_id: safab

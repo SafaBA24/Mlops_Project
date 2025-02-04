@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/safab/Desktop/Mlops_Projects/mlruns/0/896359df3dd04bad91e360796ceecc40/artifacts
+deleted_time: 1738587340462
+end_time: 1738587252990
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 896359df3dd04bad91e360796ceecc40
+run_name: skittish-finch-460
+run_uuid: 896359df3dd04bad91e360796ceecc40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738587252162
+status: 3
+tags: []
+user_id: safab

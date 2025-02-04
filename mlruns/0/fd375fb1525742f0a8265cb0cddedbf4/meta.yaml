@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/safab/Desktop/Mlops_Projects/mlruns/0/fd375fb1525742f0a8265cb0cddedbf4/artifacts
+end_time: 1738599227509
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd375fb1525742f0a8265cb0cddedbf4
+run_name: bouncy-sloth-232
+run_uuid: fd375fb1525742f0a8265cb0cddedbf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738599196637
+status: 3
+tags: []
+user_id: safab

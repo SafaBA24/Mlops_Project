@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738597220045
+current_stage: None
+description: ''
+last_updated_timestamp: 1738597220045
+name: BestModel_NB
+run_id: f9b20a9d280648369456a719fa3f7664
+run_link: ''
+source: file:///C:/Users/safab/Desktop/Mlops_Projects/mlruns/0/f9b20a9d280648369456a719fa3f7664/artifacts/NB_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/safab/Desktop/Mlops_Projects/mlruns/0/f9b20a9d280648369456a719fa3f7664/artifacts/NB_model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/safab/Desktop/Mlops_Projects/mlruns/0/733d5032be1245c8854a700180fa1974/artifacts
+end_time: 1738596316291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 733d5032be1245c8854a700180fa1974
+run_name: hilarious-vole-875
+run_uuid: 733d5032be1245c8854a700180fa1974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738596288318
+status: 3
+tags: []
+user_id: safab

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738597184451
+current_stage: None
+description: ''
+last_updated_timestamp: 1738597184451
+name: BestModel_SVM
+run_id: 66be591677a14c2f9bdad508ca47fc6d
+run_link: ''
+source: file:///C:/Users/safab/Desktop/Mlops_Projects/mlruns/0/66be591677a14c2f9bdad508ca47fc6d/artifacts/svm_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/safab/Desktop/Mlops_Projects/mlruns/0/66be591677a14c2f9bdad508ca47fc6d/artifacts/svm_model
+user_id: null
+version: 1

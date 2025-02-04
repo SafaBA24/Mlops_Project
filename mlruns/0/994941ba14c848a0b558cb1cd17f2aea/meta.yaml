@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/safab/Desktop/Mlops_Projects/mlruns/0/994941ba14c848a0b558cb1cd17f2aea/artifacts
+deleted_time: 1736964566575
+end_time: 1736964214083
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 994941ba14c848a0b558cb1cd17f2aea
+run_name: nosy-ram-939
+run_uuid: 994941ba14c848a0b558cb1cd17f2aea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736964207437
+status: 3
+tags: []
+user_id: safab

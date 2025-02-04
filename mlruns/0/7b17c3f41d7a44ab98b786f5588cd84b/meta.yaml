@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/safab/Desktop/Mlops_Projects/mlruns/0/7b17c3f41d7a44ab98b786f5588cd84b/artifacts
+end_time: 1736965469840
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b17c3f41d7a44ab98b786f5588cd84b
+run_name: brawny-quail-258
+run_uuid: 7b17c3f41d7a44ab98b786f5588cd84b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736965464017
+status: 3
+tags: []
+user_id: safab

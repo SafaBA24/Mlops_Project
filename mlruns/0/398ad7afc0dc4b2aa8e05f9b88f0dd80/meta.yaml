@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/safab/Desktop/Mlops_Projects/mlruns/0/398ad7afc0dc4b2aa8e05f9b88f0dd80/artifacts
+end_time: 1738586871853
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 398ad7afc0dc4b2aa8e05f9b88f0dd80
+run_name: big-chimp-434
+run_uuid: 398ad7afc0dc4b2aa8e05f9b88f0dd80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738586853640
+status: 3
+tags: []
+user_id: safab
